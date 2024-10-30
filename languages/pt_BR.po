@@ -1,0 +1,60 @@
+# Translation of Plugins - Crush Counter DiscordApp - Development (trunk) in Portuguese (Brazil)
+# This file is distributed under the same license as the Plugins - Crush Counter DiscordApp - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-10-20 09:41:09+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Plugins - Crush Counter DiscordApp - Development (trunk)\n"
+
+#. Author URI of the plugin/theme
+msgid "www.iware.com.br"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Djavan \"Ryuuzaki\" Fernando"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Fornece integração com algumas funcionalidades do DiscordApp. Gives integration with some DiscorApp Functionalities."
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/plugins/crush-counter-discordapp"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Crush Counter DiscordApp"
+msgstr ""
+
+#: admin/partials/crush-counter-discordapp-admin-display.php:75
+msgid "Salvar"
+msgstr "Salvar"
+
+#: admin/partials/crush-counter-discordapp-admin-display.php:63
+msgid "Bot Avatar"
+msgstr ""
+
+#: admin/partials/crush-counter-discordapp-admin-display.php:62
+msgid "Upload Avatar"
+msgstr "Imagem do Avatar"
+
+#: admin/partials/crush-counter-discordapp-admin-display.php:54
+msgid "Nome do Bot"
+msgstr ""
+
+#: admin/partials/crush-counter-discordapp-admin-display.php:48
+msgid "URL do Webhook"
+msgstr ""
+
+#: admin/partials/crush-counter-discordapp-admin-display.php:46
+msgid "Crush Counter DiscordApp Webhook"
+msgstr "Crush Counter DiscordApp Webhook"
+
+#: admin/class-crush-counter-discordapp-admin.php:124
+msgid "Settings"
+msgstr "Configurações"
